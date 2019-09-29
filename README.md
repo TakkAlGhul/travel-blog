@@ -1,4 +1,4 @@
-#Travel blog 
+# Travel blog 
 
 this is a travel blog using gatsby, Contentful, Netlify.
 
